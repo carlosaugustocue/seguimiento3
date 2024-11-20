@@ -166,5 +166,7 @@ Estudiar Java (Pendiente)
 
 ## **Autores**
 
-**Carlos Aranzazu**  
+**Carlos Aranzazu**
+**Susana Eguis**
+**Jeronimo Rodriguez**
 Proyecto educativo con implementación de principios modernos en Java.
